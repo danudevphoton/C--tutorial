@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhbnZ8Jta//3uOHzUK8sToLosig6gjaKD3nS4aLh4qrambw+qjLg1zl6VEgD+V2KZdbZ1cvb8oHHTCGry8NCJg==",
+  "dgSpecHash": "zzYiXY6V87cCGJOTuRUgcH2+YdXI3iBEXp7byNtr81Be6Vq534+N61wVyoRac1hoqBByhhCr2GwiiIEK7Z8D6g==",
   "success": true,
-  "projectFilePath": "/Users/danu_m/Documents/Dotnet/HelloWorld/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
+  "projectFilePath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/danu_m/.nuget/packages/coverlet.collector/1.3.0/coverlet.collector.1.3.0.nupkg.sha512",
     "/Users/danu_m/.nuget/packages/microsoft.codecoverage/16.7.1/microsoft.codecoverage.16.7.1.nupkg.sha512",

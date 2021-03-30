@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danu_m/Documents/Dotnet/HelloWorld/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
+      "projectUniqueName": "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
       "projectName": "HelloWorld.Tests",
-      "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
+      "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/test/HelloWorld.Tests/HelloWorld.Tests.csproj",
       "packagesPath": "/Users/danu_m/.nuget/packages/",
-      "outputPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/test/HelloWorld.Tests/obj/",
+      "outputPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/test/HelloWorld.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danu_m/.nuget/NuGet/NuGet.Config"
@@ -5662,8 +5662,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/danu_m/Documents/Dotnet/HelloWorld/src/HelloWorld.csproj": {
-              "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/src/HelloWorld.csproj"
+            "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/src/HelloWorld.csproj": {
+              "projectPath": "/Users/danu_m/Documents/Dotnet/HelloWorld/C--tutorial/src/HelloWorld.csproj"
             }
           }
         }
